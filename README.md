@@ -75,7 +75,7 @@ Add page/element animations using `framer-motion`.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/birthday-celebration.git
+git clone https://github.com/JASPAL70/Birthday_celebration
 cd birthday-celebration
 npm install
 npm run dev
