@@ -30,29 +30,6 @@ This React-based project lets you create a **beautiful, interactive birthday exp
 ---
 
 
-
-## 🛠️ Tech Stack
-
-| Tech        | Role                        |
-|-------------|-----------------------------|
-| ⚛️ React.js | Component-based UI          |
-| 💨 Tailwind CSS | Utility-first styling  |
-| 🧠 JavaScript (ES6+) | Interactivity    |
-| 🌐 HTML5    | Markup structure             |
-
----
-
-## 💻 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/birthday-celebration.git
-cd birthday-celebration
-npm install
-npm run dev
-
-
 ## ✏️ Personalize It Easily
 
 🖼️ **Replace Photos**  
@@ -76,6 +53,34 @@ Use `react-confetti` for birthday pop effects.
 
 🎬 **Smooth transitions**  
 Add page/element animations using `framer-motion`.
+
+
+
+---
+
+
+## 🛠️ Tech Stack
+
+| Tech        | Role                        |
+|-------------|-----------------------------|
+| ⚛️ React.js | Component-based UI          |
+| 💨 Tailwind CSS | Utility-first styling  |
+| 🧠 JavaScript (ES6+) | Interactivity    |
+| 🌐 HTML5    | Markup structure             |
+
+---
+
+## 💻 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/birthday-celebration.git
+cd birthday-celebration
+npm install
+npm run dev
+
+
 
 
 
